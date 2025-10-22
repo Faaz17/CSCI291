@@ -1,0 +1,13 @@
+[{
+		"file":	"C:\\Development\\Codelite\\VM_machine\\VM_machine\\lab1.c",
+		"directory":	"C:\\Development\\Codelite\\VM_machine\\VM_machine",
+		"command":	"C:/msys64/ucrt64/bin/gcc.exe -c C:\\Development\\Codelite\\VM_machine\\VM_machine\\lab1.c -o C:\\Development\\Codelite\\VM_machine\\VM_machine\\lab1.c.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -I. -I.  -gdwarf-2  -O0  -Wall  save-temps  -fverbose-asm"
+	}, {
+		"file":	"C:\\Development\\Codelite\\VM_machine\\VM_machine\\lab3.c",
+		"directory":	"C:\\Development\\Codelite\\VM_machine\\VM_machine",
+		"command":	"C:/msys64/ucrt64/bin/gcc.exe -c C:\\Development\\Codelite\\VM_machine\\VM_machine\\lab3.c -o C:\\Development\\Codelite\\VM_machine\\VM_machine\\lab3.c.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -I. -I.  -gdwarf-2  -O0  -Wall  save-temps  -fverbose-asm"
+	}, {
+		"file":	"C:\\Development\\Codelite\\VM_machine\\VM_machine\\lab4_final.c",
+		"directory":	"C:\\Development\\Codelite\\VM_machine\\VM_machine",
+		"command":	"C:/msys64/ucrt64/bin/gcc.exe -c C:\\Development\\Codelite\\VM_machine\\VM_machine\\lab4_final.c -o C:\\Development\\Codelite\\VM_machine\\VM_machine\\lab4_final.c.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -I. -I.  -gdwarf-2  -O0  -Wall  save-temps  -fverbose-asm"
+	}]

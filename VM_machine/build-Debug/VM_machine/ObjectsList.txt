@@ -1,0 +1,1 @@
+../build-Debug/VM_machine/lab4_final.c.o   
