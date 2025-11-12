@@ -1,0 +1,9 @@
+[{
+		"file":	"C:\\Development\\Codelite\\Lab3\\Lab3\\Lab3\\task1.c",
+		"directory":	"C:\\Development\\Codelite\\Lab3\\Lab3\\Lab3",
+		"command":	"C:/msys64/ucrt64/bin/gcc.exe -c C:\\Development\\Codelite\\Lab3\\Lab3\\Lab3\\task1.c -o C:\\Development\\Codelite\\Lab3\\Lab3\\Lab3\\task1.c.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -I. -I.  -gdwarf-2  -O0  -Wall  -save-temps  -fverbose-asm"
+	}, {
+		"file":	"C:\\Development\\Codelite\\Lab3\\Lab3\\Lab3\\question2.c",
+		"directory":	"C:\\Development\\Codelite\\Lab3\\Lab3\\Lab3",
+		"command":	"C:/msys64/ucrt64/bin/gcc.exe -c C:\\Development\\Codelite\\Lab3\\Lab3\\Lab3\\question2.c -o C:\\Development\\Codelite\\Lab3\\Lab3\\Lab3\\question2.c.o -target x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IC:\\msys64\\ucrt64\\include\\c++\\15.1.0\\backward -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IC:\\msys64\\ucrt64\\include -IC:\\msys64\\ucrt64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -I. -I.  -gdwarf-2  -O0  -Wall  -save-temps  -fverbose-asm"
+	}]
